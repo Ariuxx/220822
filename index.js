@@ -2,7 +2,8 @@ const yesbtn= document.querySelector('#yesbtn');
 //yesbtn.style.setPropety('Back')
 
 yesbtn.addEventListener('click',function () {
-    alert('Ya sabia que dirias que si')
+    alert('Ya sabía que me dirías que si :) \nTe amo mi amor 💗')
+
 });
 
 const nobtn= document.querySelector('#nobtn');
