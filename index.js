@@ -2,7 +2,7 @@ const yesbtn= document.querySelector('#yesbtn');
 //yesbtn.style.setPropety('Back')
 
 yesbtn.addEventListener('click',function () {
-    alert('Ya sabía que me dirías que si :) \nPor cierto te ves muy hermosa hoy, mi amor 💗')
+    alert('Ya sabía que me dirías que si :) \nPor cierto te ves muy hermosa hoy, mi amor. Tamo 💗')
 
 });
 
