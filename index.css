@@ -53,5 +53,5 @@ button{
 #nobtn {
     background-color: #fbaeed;
     position: absolute;
-    transform: translate(100%, 700%);
+    transform: translate(100%, 550%);
 }
