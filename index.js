@@ -2,7 +2,7 @@ const yesbtn= document.querySelector('#yesbtn');
 //yesbtn.style.setPropety('Back')
 
 yesbtn.addEventListener('click',function () {
-    alert('Que bonita te ves hoy, mi amor. 💗')
+    alert('Lo sabía :). /n Creo que no lo sabes pero ese 22 de diciembre se quedo guardado en mi alma. ')
 
 });
 
